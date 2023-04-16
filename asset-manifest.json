@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memoization/static/css/main.93a0b9e4.css",
+    "main.js": "/Memoization/static/js/main.c997746b.js",
+    "index.html": "/Memoization/index.html",
+    "main.93a0b9e4.css.map": "/Memoization/static/css/main.93a0b9e4.css.map",
+    "main.c997746b.js.map": "/Memoization/static/js/main.c997746b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0b9e4.css",
+    "static/js/main.c997746b.js"
+  ]
+}
